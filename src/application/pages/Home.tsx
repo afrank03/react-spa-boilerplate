@@ -25,9 +25,7 @@ export const Home: React.FC = () => {
 
   return (
     <div>
-      <h1>
-        React Boilerplate Homepage
-      </h1>
+      <h1>React Boilerplate Homepage</h1>
       <p>
         Asynchronous greeting: <strong>{isLoading ? 'Loading...' : greeting}</strong>
       </p>

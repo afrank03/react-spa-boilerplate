@@ -1,4 +1,4 @@
-# React + TS + SASS + Jest + Parcel + Husky SPA Boilerplate
+# React SPA Boilerplate with TS + SASS + Jest + Parcel + Husky
 
 > Inspired by DDD architecture
 
